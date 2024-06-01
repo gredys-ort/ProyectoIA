@@ -1,0 +1,9 @@
+# Ignorar la carpeta de dependencias
+myenv/
+
+# Ignorar archivos de imagen en la carpeta plates
+plates/*.jpg
+
+# Ignorar otros archivos innecesarios
+*.pyc
+__pycache__/
